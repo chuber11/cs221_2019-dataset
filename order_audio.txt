@@ -1,0 +1,19 @@
+Overview Artificial Intelligence Course
+Machine Learning 1
+Machine Learning 2
+Machine Learning 3
+Search 1
+Search 2
+Markov Decision Processes 1
+Markov Decision Processes 2
+Game Playing 1
+Game Playing 2
+Factor Graphs 1
+Factor Graphs 2
+Bayesian Networks 1
+Bayesian Networks 2
+Bayesian Networks 3
+Logic 1
+Logic 2
+Deep Learning
+Conclusion
