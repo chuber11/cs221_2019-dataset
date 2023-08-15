@@ -1,4 +1,6 @@
 
+mkdir -p segfiles
+
 for seg in shas_output/*.seg
 do
     seg2=${seg#shas_output/}
