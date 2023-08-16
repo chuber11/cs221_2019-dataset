@@ -1,6 +1,5 @@
 BFS
 CSPs
-Domaini
 ICM
 K-means
 MarkovBlanket
@@ -16,13 +15,11 @@ bn
 centroids
 chain-structured
 coordinate-wise
-dence
 efficienty
 ensnarled
 epsilon-greedy
 fj
 fk
-fnew
 formalizes
 gibbsSampling
 gj
@@ -34,7 +31,6 @@ j-th
 lookahead
 max-arity
 max-weight
-maxVariableElimination
 maximimizes
 maximization
 mini-problem

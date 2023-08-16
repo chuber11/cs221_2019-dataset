@@ -14,11 +14,9 @@ Qopt
 SARSA
 Sadigh
 Sedol
-Succ
 TD-Gammon
 Tesauro
 Ths
-Vminmax
 arg
 center-control
 dmax
@@ -35,11 +33,9 @@ minb
 nework
 off-policy
 on-policy
-orative
 orderings
 p-t
 probabily
 right-side
 self-play
 single-move
-tive

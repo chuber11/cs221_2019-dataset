@@ -1,12 +1,9 @@
-FutureCost
-IsEnd
 MDP
 MDPs
 Q-value
 Q-values
 Qopt
 Sadigh
-Succ
 Vopt
 arg
 asume
@@ -14,13 +11,8 @@ ctrl-enter
 deterministically
 downweight
 initializes
-ity
-moveReward
 non-convergence
-numEpisodes
-numIters
 semi-live
 slipProb
-sstart
 tPE
 tVI

@@ -1,8 +1,3 @@
-Dtrain
-Lossabsdev
-Losshinge
-Losslogistic
-Losssquared
 Pictorially
 SGD
 SVM
@@ -10,16 +5,12 @@ SVMs
 Sadigh
 TrainLoss
 covariate
-endsWith
-eters
 extractors
-fracOfAlpha
 gradient-based
 ground-truth
 high-dimensional
 kwk
 max-margin
-mizing
 multiset
 not-spam
 quadratically

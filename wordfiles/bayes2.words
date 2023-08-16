@@ -1,5 +1,4 @@
 BFS
-Domaini
 Forward-backward
 HMMs
 Hn
@@ -12,20 +11,12 @@ Xj
 Yn
 beamSearch
 bn
-coherenceFactor
-ctrl-enter
 grid-height
 grid-width
-ifies
-missingFrac
-parital
-particleFiltering
 resample
 search-based
-showMarginals
 signments
 stochastically
 tij
 user-defined
 variable-based
-xParents

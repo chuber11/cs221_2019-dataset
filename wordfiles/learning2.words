@@ -1,4 +1,3 @@
-Dtrain
 Non-parametric
 Piecewise
 RK
@@ -8,11 +7,8 @@ Sparsity
 TrainLoss
 aab
 aac
-amples
-dencies
 discretization
 edge-wise
-endsWith
 fV
 fixed-size
 fj
@@ -27,11 +23,7 @@ non-intuitive
 nonzeros
 one-hot
 one-layer
-pixelIntensityij
-sentation
-sifiers
 subexpression
 subpaths
 subtree
 vector-valued
-zzz
